@@ -5,11 +5,12 @@
   "type": "module",
   "scripts": {
     "start": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc && vite build && npm run cache-buster",
     "preview": "vite preview",
     "parse": "node scripts/parser",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "cache-buster": "grep -rl __CACHE_BUSTER__ ./dist | xargs sed -i '' -e \"s/__CACHE_BUSTER__/$(git rev-parse --short HEAD)/g\""
   },
   "dependencies": {
     "cssnano": "^5.1.14",

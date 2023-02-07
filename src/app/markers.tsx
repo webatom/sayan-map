@@ -16,7 +16,7 @@ export const Markers: FC = () => {
   const [data, setData] = useState<Record<string, Metadata>>({});
 
   useEffect(() => {
-    fetch('/db.json')
+    fetch(`/db.json?${import.meta.env.VITE_CACHE_BUSTER}`)
       .then((res) => res.json())
       .then((res) => {
         setData(res);
