@@ -1,0 +1,120 @@
+{
+  "Аршан": {
+    "coordinates": { "lat": 51.9518, "lng": 102.4621 },
+    "routes": [
+      {
+        "complexity": "1Б",
+        "id": 5104,
+        "name": "С гребню",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "2А",
+        "id": 5105,
+        "name": "В ребру Ю гребня",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "2Б",
+        "id": 5106,
+        "name": "Ю гребню через Любовь, Дружбу",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "3А",
+        "id": 7256,
+        "name": "правому В кф. С гребня",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "3А",
+        "id": 5107,
+        "name": "З гребню",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "3Б",
+        "id": 5108,
+        "name": "среднему В кф. С гребня",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "4А",
+        "id": 7175,
+        "name": "В кф.",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "2А",
+        "id": 7869,
+        "name": "В склону",
+        "characteristic": "ск"
+      }
+    ]
+  },
+  "Броненосец": {
+    "coordinates": { "lat": 51.9557, "lng": 102.4753 },
+    "routes": [
+      {
+        "complexity": "1Б",
+        "id": 5126,
+        "name": "СВ гребню с пер. Солнечный",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "2А",
+        "id": 5127,
+        "name": "С ребру",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "2Б",
+        "id": 5128,
+        "name": "З гребню",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "2Б",
+        "id": 5129,
+        "name": "правый ЮЗ кф.",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "3А",
+        "id": 6186,
+        "name": "кулуару З стены",
+        "characteristic": "к"
+      },
+      {
+        "complexity": "4А",
+        "id": 5130,
+        "name": "левому кф. З стены",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "4Б",
+        "id": 5131,
+        "name": "правому кф. З стены",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "4Б",
+        "id": 7257,
+        "name": "центр. кф. З стены",
+        "characteristic": "ск"
+      },
+      {
+        "complexity": "5А",
+        "id": 5132,
+        "name": "центру З стены",
+        "characteristic": "к"
+      },
+      {
+        "complexity": "3Бз",
+        "id": 8004,
+        "name": "правой части З стены",
+        "characteristic": "ск"
+      }
+    ]
+  }
+}
