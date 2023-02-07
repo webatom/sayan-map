@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "parse": "npx ts-node scripts/parser",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "cssnano": "^5.1.14",

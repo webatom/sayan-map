@@ -16,7 +16,7 @@ export const Markers: FC = () => {
   const [data, setData] = useState<Record<string, Metadata>>({});
 
   useEffect(() => {
-    fetch('/public/db.json')
+    fetch('/db.json')
       .then((res) => res.json())
       .then((res) => {
         setData(res);
