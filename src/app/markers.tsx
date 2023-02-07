@@ -26,7 +26,7 @@ export const Markers: FC = () => {
   return (
     <>
       {Object.keys(data).map((mountain) => (
-        <Marker position={data[mountain].coordinates}>
+        <Marker key={mountain} position={data[mountain].coordinates}>
           <Popup>
             <div className="flex flex-col gap-2">
               <span className="block text-lg font-bold">{mountain}</span>

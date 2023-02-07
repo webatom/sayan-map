@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "cssnano": "^5.1.14",
+    "idb-keyval": "^6.2.0",
     "leaflet": "^1.9.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
