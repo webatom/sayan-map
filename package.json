@@ -7,7 +7,7 @@
     "start": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "parse": "npx ts-node scripts/parser",
+    "parse": "node scripts/parser",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
