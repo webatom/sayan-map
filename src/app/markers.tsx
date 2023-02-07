@@ -31,9 +31,6 @@ export const Markers: FC = () => {
             <div className="flex flex-col gap-2">
               <span className="block text-lg font-bold">{mountain}</span>
               {data[mountain].routes
-                .sort(({ complexity: a }, { complexity: b }) =>
-                  a.localeCompare(b)
-                )
                 .map((point) => (
                   <a
                     key={point.id}
