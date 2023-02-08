@@ -5,8 +5,8 @@ import { MapHooks, restorePosition } from './hooks';
 import { Markers } from './markers';
 
 const DEFAULT_POSITION = {
-  position: { lat: 51.93197, lng: 102.30535 },
-  zoom: 12,
+  position: { lat: 51.87437138773202, lng: 101.63864135742189 },
+  zoom: 10,
 };
 
 export const App: FC = () => {
