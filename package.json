@@ -13,9 +13,13 @@
     "cache-buster": "grep -rl __CACHE_BUSTER__ ./dist | xargs sed -i '' -e \"s/__CACHE_BUSTER__/$(git rev-parse --short HEAD)/g\""
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.10",
     "cssnano": "^5.1.14",
+    "effector": "^22.5.0",
+    "effector-react": "^22.4.0",
     "idb-keyval": "^6.2.0",
     "leaflet": "^1.9.3",
+    "patronum": "^1.14.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-leaflet": "^4.2.0",

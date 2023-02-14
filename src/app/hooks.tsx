@@ -1,20 +1,11 @@
 import { FC } from 'react';
 import { useMapEvents } from 'react-leaflet';
-import { get, set } from 'idb-keyval';
-import { LatLngExpression } from 'leaflet';
-
-const KEY = 'position';
-
-const save = (position: LatLngExpression, zoom: number) => {
-  set(KEY, { position, zoom });
-};
-
-export const restorePosition = () => get(KEY);
+import { updatePosition } from './model';
 
 export const MapHooks: FC = () => {
   const map = useMapEvents({
     move: () => {
-      save(map.getCenter(), map.getZoom());
+      updatePosition({ position: map.getCenter(), zoom: map.getZoom() });
     },
   });
 
