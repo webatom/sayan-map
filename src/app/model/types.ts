@@ -13,3 +13,9 @@ export type MountainMetadata = {
 };
 
 export type StoredMountainsWithRoutes = Record<string, MountainMetadata>;
+
+export enum LAYER {
+  OSM = 'OpenStreetMap',
+  OTM = 'OpenTopoMap',
+  CyclOSM = 'CyclOSM',
+}

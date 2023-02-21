@@ -6,3 +6,4 @@ export const DEFAULT_POSITION: IPosition = {
 };
 
 export const POSITION_KEY = 'position';
+export const LAYER_KEY = 'layer';

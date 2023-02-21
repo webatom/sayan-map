@@ -1,12 +1,15 @@
 import { createEffect, createEvent, createStore } from 'effector';
 import { get, set } from 'idb-keyval';
 import { pending } from 'patronum';
-import { IPosition, StoredMountainsWithRoutes } from '.';
+import { IPosition, LAYER, StoredMountainsWithRoutes } from '.';
 import { getLocationSearch, parsePosition } from '../utils';
-import { DEFAULT_POSITION, POSITION_KEY } from './consts';
+import { DEFAULT_POSITION, LAYER_KEY, POSITION_KEY } from './consts';
 
 export const savePositionFx = createEffect((position: IPosition) =>
   set(POSITION_KEY, position)
+);
+export const saveLayerFx = createEffect((layer: LAYER) =>
+  set(LAYER_KEY, layer)
 );
 
 export const restoreSavedPositionFx = createEffect(async () => {
@@ -22,6 +25,9 @@ export const restoreSavedPositionFx = createEffect(async () => {
   }
   return get<IPosition | undefined>(POSITION_KEY);
 });
+export const restoreSavedLayerFx = createEffect(async () =>
+  get<LAYER | undefined>(LAYER_KEY)
+);
 
 export const updateSearchParamsFx = createEffect(
   ({ position, zoom }: IPosition) => {
@@ -53,8 +59,10 @@ export const loadDataFx = createEffect<
 export const initApplication = createEvent();
 
 export const updatePosition = createEvent<IPosition>();
+export const updateLayer = createEvent<LAYER>();
 
 export const $position = createStore<IPosition>(DEFAULT_POSITION);
+export const $layer = createStore<LAYER>(LAYER.OTM);
 
 export const $mountainsWithRoutes = createStore<StoredMountainsWithRoutes>({});
 
@@ -63,5 +71,5 @@ export const $mountains = $mountainsWithRoutes.map((mountains) =>
 );
 
 export const $isLoading = pending({
-  effects: [loadDataFx, restoreSavedPositionFx],
+  effects: [loadDataFx, restoreSavedPositionFx, restoreSavedLayerFx],
 });
