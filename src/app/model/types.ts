@@ -9,6 +9,7 @@ export type MountainMetadata = {
     id: number;
     name: string;
     characteristic: string;
+    num: number;
   }[];
 };
 

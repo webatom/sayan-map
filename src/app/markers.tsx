@@ -22,7 +22,8 @@ export const Markers: FC = () => {
                     className="block"
                     rel="noreferrer"
                   >
-                    {point.complexity} - {point.name} ({point.characteristic})
+                    {point.complexity} ({point.characteristic}) - {point.name}{' '}
+                    (№{point.num})
                   </a>
                 ))}
               </div>
