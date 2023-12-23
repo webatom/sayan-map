@@ -1,7 +1,8 @@
 import { createEffect, createEvent, createStore } from 'effector';
 import { get, set } from 'idb-keyval';
 import { pending } from 'patronum';
-import { IPosition, LAYER, StoredMountainsWithRoutes } from '.';
+import { Map } from 'leaflet';
+import { IMountain, IPosition, LAYER, StoredMountainsWithRoutes } from '.';
 import { getLocationSearch, parsePosition } from '../utils';
 import { DEFAULT_POSITION, LAYER_KEY, POSITION_KEY } from './consts';
 
@@ -56,18 +57,39 @@ export const loadDataFx = createEffect<
   throw new Error('Database loading error');
 });
 
+export const flyToMountainFx = createEffect(
+  ({
+    mountain,
+    mapRef,
+  }: {
+    mountain: IMountain | null;
+    mapRef?: Map | null;
+  }) => {
+    if (!mountain) {
+      return null;
+    }
+    mapRef?.flyTo(mountain.coordinates, 14);
+    return mountain;
+  }
+);
+
 export const initApplication = createEvent();
+export const setMapRef = createEvent<Map>();
 
 export const updatePosition = createEvent<IPosition>();
 export const updateLayer = createEvent<LAYER>();
+export const selectMountain = createEvent<IMountain | null>();
 
-export const $position = createStore<IPosition>(DEFAULT_POSITION);
+export const $initialPosition = createStore<IPosition>(DEFAULT_POSITION);
 export const $layer = createStore<LAYER>(LAYER.OTM);
 
-export const $mountainsWithRoutes = createStore<StoredMountainsWithRoutes>({});
+export const $mountainsWithRoutes = createStore<StoredMountainsWithRoutes>([]);
 
-export const $mountains = $mountainsWithRoutes.map((mountains) =>
-  Object.keys(mountains)
+export const $selectedMountain = createStore<IMountain | null>(null);
+
+export const $mapRef = createStore<Map | null>(null).on(
+  setMapRef,
+  (_, map) => map
 );
 
 export const $isLoading = pending({

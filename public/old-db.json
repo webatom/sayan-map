@@ -1,0 +1,2229 @@
+{
+  "2391": {
+    "coordinates": {
+      "lat": 51.9681,
+      "lng": 102.312
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 6684,
+      "name": "кулуару ЮЗ стены",
+      "characteristic": "ск",
+      "num": "165"
+    }]
+  },
+  "2428": {
+    "coordinates": {
+      "lat": 51.9715,
+      "lng": 102.3351
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 5200,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "166"
+    }]
+  },
+  "2441": {
+    "coordinates": {
+      "lat": 51.9666,
+      "lng": 102.2955
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 6685,
+      "name": "С гребню",
+      "characteristic": "ск",
+      "num": "167"
+    }]
+  },
+  "2676": {
+    "coordinates": {
+      "lat": 51.927,
+      "lng": 102.1532
+    },
+    "routes": [{
+      "complexity": "3Аз",
+      "id": 5212,
+      "name": "СВ ребру от пер. Снежный",
+      "characteristic": "ск",
+      "num": "168"
+    }]
+  },
+  "2678": {
+    "coordinates": {
+      "lat": 51.94179,
+      "lng": 102.20309
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 5202,
+      "name": "правому ребру В склона",
+      "characteristic": "ск",
+      "num": "169"
+    }, {
+      "complexity": "3А",
+      "id": 5203,
+      "name": "В кф.",
+      "characteristic": "ск",
+      "num": "170"
+    }]
+  },
+  "3032": {
+    "coordinates": {
+      "lat": 51.8175,
+      "lng": 101.4454
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 5204,
+      "name": "Ю склону ЮЗ гребня",
+      "characteristic": "ск",
+      "num": "171"
+    }]
+  },
+  "3138": {
+    "coordinates": {
+      "lat": 51.829,
+      "lng": 101.4305
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 5205,
+      "name": "ЮЗ гребню",
+      "characteristic": "ск",
+      "num": "172"
+    }]
+  },
+  "Абрек": {
+    "coordinates": {
+      "lat": 51.9364,
+      "lng": 102.6216
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 6868,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "1"
+    }]
+  },
+  "(Альпик)": {
+    "coordinates": {
+      "lat": 51.9371,
+      "lng": 102.2059
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5217,
+      "name": "СЗ гребню",
+      "characteristic": "к",
+      "num": "2"
+    }]
+  },
+  "Ангарск": {
+    "coordinates": {
+      "lat": 51.9725,
+      "lng": 102.2092
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 5100,
+      "name": "С гребню",
+      "characteristic": "к",
+      "num": "3"
+    }, {
+      "complexity": "3А",
+      "id": 5101,
+      "name": "левому кф. ЮЗ стены",
+      "characteristic": "к",
+      "num": "4"
+    }, {
+      "complexity": "3А",
+      "id": 5102,
+      "name": "правому кф. ЮЗ склона",
+      "characteristic": "ск",
+      "num": "5"
+    }, {
+      "complexity": "3Б",
+      "id": 5103,
+      "name": "центр. кф. ЮЗ стены",
+      "characteristic": "ск",
+      "num": "6"
+    }]
+  },
+  "Аршан": {
+    "coordinates": {
+      "lat": 51.9518,
+      "lng": 102.4621
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5104,
+      "name": "С гребню",
+      "characteristic": "ск",
+      "num": "7"
+    }, {
+      "complexity": "2А",
+      "id": 5105,
+      "name": "В ребру Ю гребня",
+      "characteristic": "ск",
+      "num": "8"
+    }, {
+      "complexity": "2А",
+      "id": 7869,
+      "name": "В склону",
+      "characteristic": "ск",
+      "num": "180"
+    }, {
+      "complexity": "2Б",
+      "id": 5106,
+      "name": "Ю гребню через Любовь, Дружбу",
+      "characteristic": "ск",
+      "num": "9"
+    }, {
+      "complexity": "3А",
+      "id": 7256,
+      "name": "правому В кф. С гребня",
+      "characteristic": "ск",
+      "num": "10"
+    }, {
+      "complexity": "3А",
+      "id": 5107,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "11"
+    }, {
+      "complexity": "3Б",
+      "id": 5108,
+      "name": "среднему В кф. С гребня",
+      "characteristic": "ск",
+      "num": "12"
+    }, {
+      "complexity": "4А",
+      "id": 7175,
+      "name": "В кф.",
+      "characteristic": "ск",
+      "num": "13"
+    }]
+  },
+  "Барун": {
+    "coordinates": {
+      "lat": 51.9353,
+      "lng": 102.1682
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5109,
+      "name": "с севера",
+      "characteristic": "ск",
+      "num": "14"
+    }, {
+      "complexity": "2А",
+      "id": 5110,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "15"
+    }, {
+      "complexity": "2А",
+      "id": 5111,
+      "name": "с юга",
+      "characteristic": "ск",
+      "num": "16"
+    }, {
+      "complexity": "3Б",
+      "id": 5112,
+      "name": "В гребню",
+      "characteristic": "к",
+      "num": "17"
+    }]
+  },
+  "Барун, Восточная": {
+    "coordinates": {
+      "lat": 51.9339,
+      "lng": 102.1748
+    },
+    "routes": [{
+      "complexity": "4Б",
+      "id": 7195,
+      "name": "В стене",
+      "characteristic": "ск",
+      "num": "18"
+    }]
+  },
+  "Башня": {
+    "coordinates": {
+      "lat": 51.9365,
+      "lng": 102.2554
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5113,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "19"
+    }, {
+      "complexity": "1Б",
+      "id": 5114,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "20"
+    }, {
+      "complexity": "2А",
+      "id": 5115,
+      "name": "С кф.",
+      "characteristic": "ск",
+      "num": "21"
+    }, {
+      "complexity": "2Б",
+      "id": 5116,
+      "name": "В гребню",
+      "characteristic": "ск",
+      "num": "22"
+    }]
+  },
+  "Братчанка": {
+    "coordinates": {
+      "lat": 51.9846,
+      "lng": 102.356
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5118,
+      "name": "В гребню",
+      "characteristic": "ск",
+      "num": "24"
+    }, {
+      "complexity": "2А",
+      "id": 5119,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "25"
+    }, {
+      "complexity": "2Б",
+      "id": 5120,
+      "name": "левой части Ю стены",
+      "characteristic": "ск",
+      "num": "26"
+    }, {
+      "complexity": "2Б",
+      "id": 5121,
+      "name": "Ю кулуар В гребня",
+      "characteristic": "ск",
+      "num": "27"
+    }, {
+      "complexity": "3А",
+      "id": 5122,
+      "name": "Ю кф. В гребня",
+      "characteristic": "ск",
+      "num": "27а"
+    }, {
+      "complexity": "3Аз",
+      "id": 8003,
+      "name": "правый ЮВ кф. Ю гребня",
+      "characteristic": "ск",
+      "num": "186"
+    }, {
+      "complexity": "4А",
+      "id": 5123,
+      "name": "Ю кф. В гребня",
+      "characteristic": "ск",
+      "num": "28"
+    }]
+  },
+  "Авиатор": {
+    "coordinates": {
+      "lat": 51.72581,
+      "lng": 100.61205
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 6222,
+      "name": "С кф. СЗ ребра",
+      "characteristic": "ск",
+      "num": "1"
+    }, {
+      "complexity": "3Б",
+      "id": 3459,
+      "name": "СВ кф.",
+      "characteristic": "ск",
+      "num": "2"
+    }, {
+      "complexity": "3Б",
+      "id": 7174,
+      "name": "правой части СВ стены",
+      "characteristic": "ск",
+      "num": "2а"
+    }]
+  },
+  "Бриг": {
+    "coordinates": {
+      "lat": 51.9809,
+      "lng": 102.3569
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 5124,
+      "name": "В кулуару",
+      "characteristic": "к",
+      "num": "29"
+    }, {
+      "complexity": "4А",
+      "id": 5125,
+      "name": "С гребню",
+      "characteristic": "ск",
+      "num": "30"
+    }, {
+      "complexity": "4А",
+      "id": 6218,
+      "name": "центр. кф. В стены",
+      "characteristic": "к",
+      "num": "31"
+    }, {
+      "complexity": "4Б",
+      "id": 6372,
+      "name": "В стене, траверс",
+      "characteristic": "ск",
+      "num": "32"
+    }]
+  },
+  "9 мая": {
+    "coordinates": {
+      "lat": 51.9774,
+      "lng": 102.3568
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 5135,
+      "name": "между ромбов СВ склона",
+      "characteristic": "ск",
+      "num": "49"
+    }, {
+      "complexity": "4А",
+      "id": 8115,
+      "name": "С гребню, траверс",
+      "characteristic": "к",
+      "num": "50"
+    }, {
+      "complexity": "4Б",
+      "id": 6372,
+      "name": "В стене, траверс",
+      "characteristic": "ск",
+      "num": "32"
+    }]
+  },
+  "Броненосец": {
+    "coordinates": {
+      "lat": 51.9557,
+      "lng": 102.4753
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5126,
+      "name": "СВ гребню с пер. Солнечный",
+      "characteristic": "ск",
+      "num": "33"
+    }, {
+      "complexity": "2А",
+      "id": 5127,
+      "name": "С ребру",
+      "characteristic": "ск",
+      "num": "34"
+    }, {
+      "complexity": "2Б",
+      "id": 5128,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "35"
+    }, {
+      "complexity": "2Б",
+      "id": 5129,
+      "name": "правый ЮЗ кф.",
+      "characteristic": "ск",
+      "num": "36"
+    }, {
+      "complexity": "3А",
+      "id": 6186,
+      "name": "кулуару З стены",
+      "characteristic": "к",
+      "num": "37"
+    }, {
+      "complexity": "3Бз",
+      "id": 8004,
+      "name": "правой части З стены",
+      "characteristic": "ск",
+      "num": "187"
+    }, {
+      "complexity": "4А",
+      "id": 5130,
+      "name": "левому кф. З стены",
+      "characteristic": "ск",
+      "num": "38"
+    }, {
+      "complexity": "4Б",
+      "id": 5131,
+      "name": "правому кф. З стены",
+      "characteristic": "ск",
+      "num": "39"
+    }, {
+      "complexity": "4Б",
+      "id": 7257,
+      "name": "центр. кф. З стены",
+      "characteristic": "ск",
+      "num": "40"
+    }, {
+      "complexity": "5А",
+      "id": 5132,
+      "name": "центру З стены",
+      "characteristic": "к",
+      "num": "41"
+    }]
+  },
+  "Буревестник": {
+    "coordinates": {
+      "lat": 51.8812,
+      "lng": 102.1134
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 5133,
+      "name": "В ребру",
+      "characteristic": "ск",
+      "num": "42"
+    }, {
+      "complexity": "2Б",
+      "id": 5134,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "43"
+    }]
+  },
+  "Генерала Корякова": {
+    "coordinates": {
+      "lat": 51.818,
+      "lng": 101.4457
+    },
+    "routes": [{
+      "complexity": "2Аз",
+      "id": 7530,
+      "name": "ЮВ кулуару ЮЗ гребня",
+      "characteristic": "к",
+      "num": "44"
+    }]
+  },
+  "Горец, Восточная": {
+    "coordinates": {
+      "lat": 51.9304,
+      "lng": 102.6293
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 6875,
+      "name": "В гребню",
+      "characteristic": "ск",
+      "num": "45"
+    }, {
+      "complexity": "3А",
+      "id": 6877,
+      "name": "З кулуару, траверс",
+      "characteristic": "ск",
+      "num": "47"
+    }]
+  },
+  "Горец, Западная": {
+    "coordinates": {
+      "lat": 51.9318,
+      "lng": 102.6251
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 6876,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "46"
+    }, {
+      "complexity": "3А",
+      "id": 6877,
+      "name": "З кулуару, траверс",
+      "characteristic": "ск",
+      "num": "47"
+    }]
+  },
+  "Дальняя, Дальняя": {
+    "coordinates": {
+      "lat": 51.847,
+      "lng": 101.5646
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 7531,
+      "name": "кф. ЮВ ребра",
+      "characteristic": "ск",
+      "num": "48"
+    }]
+  },
+  "Динозавр": {
+    "coordinates": {
+      "lat": 51.95352,
+      "lng": 102.19152
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 5136,
+      "name": "с плеча ЮЗ гребня",
+      "characteristic": "к",
+      "num": "51"
+    }, {
+      "complexity": "3А",
+      "id": 5137,
+      "name": "В ребру",
+      "characteristic": "ск",
+      "num": "52"
+    }, {
+      "complexity": "4А",
+      "id": 5138,
+      "name": "левому З кф. СЗ гребня",
+      "characteristic": "ск",
+      "num": "53"
+    }, {
+      "complexity": "4Б",
+      "id": 5139,
+      "name": "Ю кф. В ребра",
+      "characteristic": "ск",
+      "num": "54"
+    }]
+  },
+  "Дипломник": {
+    "coordinates": {
+      "lat": 51.9187,
+      "lng": 102.1252
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 5140,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "55"
+    }]
+  },
+  "Доктор": {
+    "coordinates": {
+      "lat": 51.9527,
+      "lng": 102.533
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 5141,
+      "name": "С гребню",
+      "characteristic": "ск",
+      "num": "56"
+    }]
+  },
+  "Домашняя": {
+    "coordinates": {
+      "lat": 51.9163,
+      "lng": 102.2282
+    },
+    "routes": [{
+      "complexity": "4А",
+      "id": 5142,
+      "name": "В кф.",
+      "characteristic": "ск",
+      "num": "57"
+    }, {
+      "complexity": "5А",
+      "id": 5143,
+      "name": "В стене",
+      "characteristic": "ск",
+      "num": "58"
+    }]
+  },
+  "Дружба": {
+    "coordinates": {
+      "lat": 51.95091,
+      "lng": 102.45565
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 7177,
+      "name": "З гребню через в.Любви",
+      "characteristic": "ск",
+      "num": "60"
+    }, {
+      "complexity": "1Бз",
+      "id": 6800,
+      "name": "Ю ребру",
+      "characteristic": "ск",
+      "num": "59"
+    }, {
+      "complexity": "2А",
+      "id": 5144,
+      "name": "З гребню",
+      "characteristic": "к",
+      "num": "61"
+    }, {
+      "complexity": "3А",
+      "id": 5145,
+      "name": "через в. Молодежь, З ребру",
+      "characteristic": "ск",
+      "num": "62"
+    }, {
+      "complexity": "3Аз",
+      "id": 7178,
+      "name": "З кулуару С гребня и через вЛюбви",
+      "characteristic": "к",
+      "num": "63"
+    }]
+  },
+  "Заречная": {
+    "coordinates": {
+      "lat": 51.776,
+      "lng": 100.7334
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 6209,
+      "name": "ЮЗ гребню",
+      "characteristic": "ск",
+      "num": "64"
+    }]
+  },
+  "Заречная, Северная": {
+    "coordinates": {
+      "lat": 51.7838,
+      "lng": 100.7334
+    },
+    "routes": [{
+      "complexity": "2Бз",
+      "id": 7621,
+      "name": "желобу СЗ склона",
+      "characteristic": "к",
+      "num": "65"
+    }]
+  },
+  "Зун": {
+    "coordinates": {
+      "lat": 51.9577,
+      "lng": 102.2343
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 5146,
+      "name": "кф. Ю стены",
+      "characteristic": "ск",
+      "num": "66"
+    }, {
+      "complexity": "4А",
+      "id": 5147,
+      "name": "центр. кф. ЮЗ стены",
+      "characteristic": "ск",
+      "num": "67"
+    }]
+  },
+  "Иглы Хандагая, 1-я": {
+    "coordinates": {
+      "lat": 51.9681,
+      "lng": 102.1981
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 5151,
+      "name": "З гребню с пер. Крупенина",
+      "characteristic": "к",
+      "num": "68"
+    }, {
+      "complexity": "4А",
+      "id": 6374,
+      "name": "траверс",
+      "characteristic": "к",
+      "num": "71"
+    }]
+  },
+  "Иглы Хандагая, 3-я": {
+    "coordinates": {
+      "lat": 51.97,
+      "lng": 102.2027
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 5152,
+      "name": "Ю ребру",
+      "characteristic": "ск",
+      "num": "69"
+    }, {
+      "complexity": "4А",
+      "id": 6374,
+      "name": "траверс",
+      "characteristic": "к",
+      "num": "71"
+    }]
+  },
+  "Иглы Хандагая, 4-я": {
+    "coordinates": {
+      "lat": 51.9708,
+      "lng": 102.2052
+    },
+    "routes": [{
+      "complexity": "3Б",
+      "id": 5153,
+      "name": "З гребню с пер. Удачный",
+      "characteristic": "ск",
+      "num": "70"
+    }]
+  },
+  "Иркутск": {
+    "coordinates": {
+      "lat": 51.974,
+      "lng": 102.2261
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 5154,
+      "name": "Ю кф.",
+      "characteristic": "ск",
+      "num": "72"
+    }, {
+      "complexity": "3А",
+      "id": 5155,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "73"
+    }, {
+      "complexity": "3Б",
+      "id": 5156,
+      "name": "Ю ребру",
+      "characteristic": "ск",
+      "num": "74"
+    }]
+  },
+  "Казак": {
+    "coordinates": {
+      "lat": 51.9433,
+      "lng": 102.5959
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 6869,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "75"
+    }]
+  },
+  "Купол": {
+    "coordinates": {
+      "lat": 51.9022,
+      "lng": 102.1853
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5157,
+      "name": "В гребню",
+      "characteristic": "ск",
+      "num": "76"
+    }, {
+      "complexity": "2А",
+      "id": 6375,
+      "name": "траверс",
+      "characteristic": "ск",
+      "num": "132"
+    }, {
+      "complexity": "5А",
+      "id": 7179,
+      "name": "СВ плитам В плеча",
+      "characteristic": "ск",
+      "num": "77"
+    }, {
+      "complexity": "5А",
+      "id": 7180,
+      "name": "правому центр. кф. С стены",
+      "characteristic": "ск",
+      "num": "78"
+    }, {
+      "complexity": "5А",
+      "id": 6686,
+      "name": "левый кант  С стены В плеча",
+      "characteristic": "ск",
+      "num": "79"
+    }, {
+      "complexity": "5Б",
+      "id": 5208,
+      "name": "центр.кф. С стены",
+      "characteristic": "ск",
+      "num": "80"
+    }, {
+      "complexity": "5Б",
+      "id": 5158,
+      "name": "центру С стены через «семерку»",
+      "characteristic": "ск",
+      "num": "81"
+    }, {
+      "complexity": "5Б",
+      "id": 5159,
+      "name": "отвесам С стены В плеча",
+      "characteristic": "ск",
+      "num": "82"
+    }, {
+      "complexity": "6А",
+      "id": 5160,
+      "name": "С стене В плеча",
+      "characteristic": "ск",
+      "num": "83"
+    }, {
+      "complexity": "6А",
+      "id": 5161,
+      "name": "центру С стены В плеча",
+      "characteristic": "ск",
+      "num": "84"
+    }]
+  },
+  "Любви": {
+    "coordinates": {
+      "lat": 51.94541,
+      "lng": 102.43992
+    },
+    "routes": [{
+      "complexity": "2Бз",
+      "id": 6205,
+      "name": "водопадному льду правого ручья ЮЗ ребра",
+      "characteristic": "к",
+      "num": "85"
+    }]
+  },
+  "Мамлюк": {
+    "coordinates": {
+      "lat": 51.9228,
+      "lng": 102.6548
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 6870,
+      "name": "З склону",
+      "characteristic": "ск",
+      "num": "86"
+    }]
+  },
+  "Мойгота": {
+    "coordinates": {
+      "lat": 51.90576,
+      "lng": 102.10462
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 5162,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "87"
+    }, {
+      "complexity": "3Б",
+      "id": 5163,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "88"
+    }]
+  },
+  "Монах": {
+    "coordinates": {
+      "lat": 51.9158,
+      "lng": 102.1782
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 5164,
+      "name": "с севера и З гребню",
+      "characteristic": "ск",
+      "num": "89"
+    }, {
+      "complexity": "3Бз",
+      "id": 7980,
+      "name": "В гребню",
+      "characteristic": "к",
+      "num": "185"
+    }, {
+      "complexity": "4А",
+      "id": 5209,
+      "name": "Ю кф.",
+      "characteristic": "ск",
+      "num": "90"
+    }, {
+      "complexity": "4А",
+      "id": 6188,
+      "name": "кф. С стены",
+      "characteristic": "ск",
+      "num": "91"
+    }, {
+      "complexity": "4Б",
+      "id": 5166,
+      "name": "Ю стене",
+      "characteristic": "ск",
+      "num": "92"
+    }]
+  },
+  "Москвы": {
+    "coordinates": {
+      "lat": 51.96047,
+      "lng": 102.1745
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 5167,
+      "name": "В кф. ЮВ гребня",
+      "characteristic": "ск",
+      "num": "93"
+    }]
+  },
+  "Недобрая": {
+    "coordinates": {
+      "lat": 51.9197,
+      "lng": 102.1652
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 5213,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "94"
+    }]
+  },
+  "Нефтехимиков": {
+    "coordinates": {
+      "lat": 51.9168,
+      "lng": 102.1859
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 6561,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "95"
+    }, {
+      "complexity": "3А",
+      "id": 7181,
+      "name": "Ю кф. В гребня",
+      "characteristic": "ск",
+      "num": "96"
+    }, {
+      "complexity": "4А",
+      "id": 6866,
+      "name": "СВ кф.",
+      "characteristic": "ск",
+      "num": "97"
+    }, {
+      "complexity": "4Б",
+      "id": 5168,
+      "name": "С кф.",
+      "characteristic": "ск",
+      "num": "98"
+    }]
+  },
+  "Носорог": {
+    "coordinates": {
+      "lat": 51.853111,
+      "lng": 101.631639
+    },
+    "routes": [{
+      "complexity": "3Б",
+      "id": 7742,
+      "name": "З кф. С гребня",
+      "characteristic": "ск",
+      "num": "178"
+    }, {
+      "complexity": "4Б",
+      "id": 7532,
+      "name": "1-му СЗ кф. С гребня",
+      "characteristic": "ск",
+      "num": "99"
+    }]
+  },
+  "Обманчивая": {
+    "coordinates": {
+      "lat": 51.8535,
+      "lng": 101.6083
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 7533,
+      "name": "СВ кф. С гребня",
+      "characteristic": "ск",
+      "num": "100"
+    }, {
+      "complexity": "3А",
+      "id": 7534,
+      "name": "ЮВ кф. Ю гребня",
+      "characteristic": "ск",
+      "num": "101"
+    }, {
+      "complexity": "4Б",
+      "id": 7743,
+      "name": "левому кф. В стены",
+      "characteristic": "ск",
+      "num": "179"
+    }, {
+      "complexity": "5А",
+      "id": 7535,
+      "name": "В стене Ю гребня",
+      "characteristic": "ск",
+      "num": "102"
+    }, {
+      "complexity": "5А",
+      "id": 7189,
+      "name": "центру СВ стены",
+      "characteristic": "ск",
+      "num": "103"
+    }]
+  },
+  "Оптимист": {
+    "coordinates": {
+      "lat": 51.8399,
+      "lng": 101.6107
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 7536,
+      "name": "ЮЗ гребню",
+      "characteristic": "ск",
+      "num": "104"
+    }, {
+      "complexity": "2Б",
+      "id": 7537,
+      "name": "С гребню",
+      "characteristic": "ск",
+      "num": "105"
+    }, {
+      "complexity": "3Б",
+      "id": 7538,
+      "name": "В ребру",
+      "characteristic": "ск",
+      "num": "106"
+    }, {
+      "complexity": "4Б",
+      "id": 7276,
+      "name": "С стене",
+      "characteristic": "ск",
+      "num": "107"
+    }]
+  },
+  "Партизан": {
+    "coordinates": {
+      "lat": 51.9281,
+      "lng": 102.6448
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 6871,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "108"
+    }, {
+      "complexity": "3А",
+      "id": 7182,
+      "name": "В гребню",
+      "characteristic": "ск",
+      "num": "109"
+    }]
+  },
+  "Перья": {
+    "coordinates": {
+      "lat": 51.89786,
+      "lng": 102.13893
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 5169,
+      "name": "С гребню",
+      "characteristic": "ск",
+      "num": "110"
+    }]
+  },
+  "Пирамида": {
+    "coordinates": {
+      "lat": 51.996,
+      "lng": 102.4675
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 5170,
+      "name": "с запада",
+      "characteristic": "к",
+      "num": "111"
+    }]
+  },
+  "Пластун": {
+    "coordinates": {
+      "lat": 51.9379,
+      "lng": 102.6116
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 7870,
+      "name": "Ю кулуару В гребня",
+      "characteristic": "к",
+      "num": "182"
+    }, {
+      "complexity": "3Бз",
+      "id": 6872,
+      "name": "ЮВ стене",
+      "characteristic": "ск",
+      "num": "112"
+    }]
+  },
+  "Портер": {
+    "coordinates": {
+      "lat": 51.9722,
+      "lng": 102.5633
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5171,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "113"
+    }]
+  },
+  "Русско-Монгольской дружбы": {
+    "coordinates": {
+      "lat": 51.8454,
+      "lng": 101.6359
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 7553,
+      "name": "З ребру",
+      "characteristic": "ск",
+      "num": "114"
+    }]
+  },
+  "Свердловск": {
+    "coordinates": {
+      "lat": 51.9277,
+      "lng": 102.2161
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 7539,
+      "name": "З кф. Ю гребня",
+      "characteristic": "ск",
+      "num": "115"
+    }, {
+      "complexity": "3А",
+      "id": 7540,
+      "name": "центр. З кф.",
+      "characteristic": "ск",
+      "num": "116"
+    }, {
+      "complexity": "4А",
+      "id": 5172,
+      "name": "В кф.",
+      "characteristic": "ск",
+      "num": "117"
+    }]
+  },
+  "Север": {
+    "coordinates": {
+      "lat": 51.9047,
+      "lng": 102.1773
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 5173,
+      "name": "В гребню",
+      "characteristic": "ск",
+      "num": "118"
+    }, {
+      "complexity": "3А",
+      "id": 7183,
+      "name": "СЗ гребню",
+      "characteristic": "ск",
+      "num": "119"
+    }, {
+      "complexity": "4Б",
+      "id": 5218,
+      "name": "С стене СЗ \"плеча\"",
+      "characteristic": "ск",
+      "num": "120"
+    }, {
+      "complexity": "5Б",
+      "id": 5219,
+      "name": "центру С стены",
+      "characteristic": "ск",
+      "num": "121"
+    }]
+  },
+  "Сибирь": {
+    "coordinates": {
+      "lat": 51.9107,
+      "lng": 102.1707
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 6559,
+      "name": "В кулуару",
+      "characteristic": "ск",
+      "num": "122"
+    }, {
+      "complexity": "5А",
+      "id": 7541,
+      "name": "В стене через в.Зима",
+      "characteristic": "ск",
+      "num": "123"
+    }]
+  },
+  "СОАН": {
+    "coordinates": {
+      "lat": 51.9642,
+      "lng": 102.2372
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5174,
+      "name": "С гребню",
+      "characteristic": "к",
+      "num": "124"
+    }, {
+      "complexity": "3А",
+      "id": 5175,
+      "name": "правому кф. З стены",
+      "characteristic": "ск",
+      "num": "125"
+    }, {
+      "complexity": "3Б",
+      "id": 5176,
+      "name": "центр. кф. З стены",
+      "characteristic": "к",
+      "num": "126"
+    }, {
+      "complexity": "3Б",
+      "id": 5177,
+      "name": "ЮВ гребню",
+      "characteristic": "ск",
+      "num": "127"
+    }, {
+      "complexity": "4А",
+      "id": 5178,
+      "name": "ЮЗ гребню",
+      "characteristic": "ск",
+      "num": "128"
+    }, {
+      "complexity": "4Б",
+      "id": 5179,
+      "name": "Ю стене ЮЗ гребня",
+      "characteristic": "ск",
+      "num": "129"
+    }, {
+      "complexity": "5А",
+      "id": 5180,
+      "name": "Ю стене",
+      "characteristic": "ск",
+      "num": "130"
+    }]
+  },
+  "Стол": {
+    "coordinates": {
+      "lat": 51.9039,
+      "lng": 102.1821
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 6375,
+      "name": "траверс",
+      "characteristic": "ск",
+      "num": "132"
+    }, {
+      "complexity": "5Б",
+      "id": 5181,
+      "name": "левому кф. СВ стены",
+      "characteristic": "ск",
+      "num": "131"
+    }]
+  },
+  "(Стрельникова)": {
+    "coordinates": {
+      "lat": 51.8882,
+      "lng": 101.9814
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5215,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "133"
+    }, {
+      "complexity": "3А",
+      "id": 6547,
+      "name": "З гребню, траверс",
+      "characteristic": "ск",
+      "num": "134"
+    }]
+  },
+  "Остров Даманский": {
+    "coordinates": {
+      "lat": 51.8841,
+      "lng": 101.9811
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 6547,
+      "name": "З гребню, траверс",
+      "characteristic": "ск",
+      "num": "134"
+    }]
+  },
+  "(Тамара)": {
+    "coordinates": {
+      "lat": 51.8801,
+      "lng": 101.9442
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 5216,
+      "name": "В склону",
+      "characteristic": "ск",
+      "num": "135"
+    }]
+  },
+  "Тренировочная": {
+    "coordinates": {
+      "lat": 51.9493,
+      "lng": 102.4876
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 6731,
+      "name": "С ребру",
+      "characteristic": "ск",
+      "num": "136"
+    }, {
+      "complexity": "3А",
+      "id": 7871,
+      "name": "камину В стены",
+      "characteristic": "ск",
+      "num": "183"
+    }]
+  },
+  "Трёхглавая, Северная": {
+    "coordinates": {
+      "lat": 51.9692,
+      "lng": 102.3708
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 6577,
+      "name": "В кулуару, траверс",
+      "characteristic": "к",
+      "num": "150"
+    }, {
+      "complexity": "2Б",
+      "id": 5183,
+      "name": "правому кф. В стены",
+      "characteristic": "ск",
+      "num": "137"
+    }, {
+      "complexity": "2Б",
+      "id": 6576,
+      "name": "СВ ребру, траверс",
+      "characteristic": "ск",
+      "num": "149"
+    }, {
+      "complexity": "3А",
+      "id": 5184,
+      "name": "правой части С ребра",
+      "characteristic": "ск",
+      "num": "138"
+    }, {
+      "complexity": "3А",
+      "id": 5185,
+      "name": "центр. кф. В стены",
+      "characteristic": "ск",
+      "num": "139"
+    }, {
+      "complexity": "3А",
+      "id": 5210,
+      "name": "правому кф. С стены",
+      "characteristic": "к",
+      "num": "140"
+    }, {
+      "complexity": "3Б",
+      "id": 5186,
+      "name": "левой части С ребра",
+      "characteristic": "ск",
+      "num": "141"
+    }, {
+      "complexity": "4А",
+      "id": 5187,
+      "name": "левому бастиону С стены",
+      "characteristic": "ск",
+      "num": "142"
+    }, {
+      "complexity": "4Б",
+      "id": 5188,
+      "name": "левому кф. В стены",
+      "characteristic": "ск",
+      "num": "143"
+    }]
+  },
+  "Трёхглавая, Центральная": {
+    "coordinates": {
+      "lat": 51.96643,
+      "lng": 102.37033
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5189,
+      "name": "через Ю башню",
+      "characteristic": "ск",
+      "num": "144"
+    }, {
+      "complexity": "2А",
+      "id": 6577,
+      "name": "В кулуару, траверс",
+      "characteristic": "к",
+      "num": "150"
+    }, {
+      "complexity": "2Б",
+      "id": 6576,
+      "name": "СВ ребру, траверс",
+      "characteristic": "ск",
+      "num": "149"
+    }, {
+      "complexity": "3Б",
+      "id": 5190,
+      "name": "Ю ребру В стены",
+      "characteristic": "ск",
+      "num": "145"
+    }, {
+      "complexity": "4А",
+      "id": 5191,
+      "name": "ЮВ стене",
+      "characteristic": "ск",
+      "num": "146"
+    }, {
+      "complexity": "4Б",
+      "id": 5192,
+      "name": "В стене",
+      "characteristic": "ск",
+      "num": "147"
+    }]
+  },
+  "Трёхглавая, Южная": {
+    "coordinates": {
+      "lat": 51.9638,
+      "lng": 102.3696
+    },
+    "routes": [{
+      "complexity": "3Б",
+      "id": 5193,
+      "name": "ЮВ кф.",
+      "characteristic": "ск",
+      "num": "148"
+    }]
+  },
+  "Тункинская": {
+    "coordinates": {
+      "lat": 51.7804,
+      "lng": 101.4708
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 7542,
+      "name": "С гребню",
+      "characteristic": "ск",
+      "num": "151"
+    }]
+  },
+  "Узел Ребенка": {
+    "coordinates": {
+      "lat": 51.92843,
+      "lng": 102.14921
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 5214,
+      "name": "СВ гребню",
+      "characteristic": "ск",
+      "num": "152"
+    }]
+  },
+  "Узловая": {
+    "coordinates": {
+      "lat": 51.9355,
+      "lng": 102.1601
+    },
+    "routes": [{
+      "complexity": "1Бз",
+      "id": 7200,
+      "name": "с юга по В гребню",
+      "characteristic": "ск",
+      "num": "153"
+    }]
+  },
+  "Флибустьер": {
+    "coordinates": {
+      "lat": 51.874,
+      "lng": 102.1238
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5194,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "154"
+    }, {
+      "complexity": "3Б",
+      "id": 5195,
+      "name": "ЮВ гребню",
+      "characteristic": "ск",
+      "num": "155"
+    }]
+  },
+  "Чарские Зори": {
+    "coordinates": {
+      "lat": 51.9139,
+      "lng": 102.1715
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 6560,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "156"
+    }, {
+      "complexity": "3Аз",
+      "id": 6152,
+      "name": "с севера по З гребню",
+      "characteristic": "ск",
+      "num": "157"
+    }, {
+      "complexity": "4Б",
+      "id": 5196,
+      "name": "ЮВ кф. З гребня",
+      "characteristic": "ск",
+      "num": "158"
+    }, {
+      "complexity": "5А",
+      "id": 6177,
+      "name": "В стене Ю кф.",
+      "characteristic": "ск",
+      "num": "159"
+    }, {
+      "complexity": "5А",
+      "id": 7543,
+      "name": "стене СВ гребня",
+      "characteristic": "ск",
+      "num": "160"
+    }]
+  },
+  "Шелехов": {
+    "coordinates": {
+      "lat": 51.96533,
+      "lng": 102.18275
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5197,
+      "name": "ЮВ гребню",
+      "characteristic": "ск",
+      "num": "161"
+    }]
+  },
+  "Шишкин пуп": {
+    "coordinates": {
+      "lat": 51.9505,
+      "lng": 102.1638
+    },
+    "routes": [{
+      "complexity": "5А",
+      "id": 7258,
+      "name": "центру Ю стены",
+      "characteristic": "ск",
+      "num": "162"
+    }]
+  },
+  "Школьная": {
+    "coordinates": {
+      "lat": 51.8279,
+      "lng": 101.6207
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 7544,
+      "name": "С гребню",
+      "characteristic": "ск",
+      "num": "163"
+    }]
+  },
+  "Энергетик": {
+    "coordinates": {
+      "lat": 51.9532,
+      "lng": 102.5088
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 5198,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "164"
+    }]
+  },
+  "3187 (Старкова)": {
+    "coordinates": {
+      "lat": 51.8983,
+      "lng": 101.9596
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 7571,
+      "name": "ЮВ кулуару",
+      "characteristic": "ск",
+      "num": "173"
+    }]
+  },
+  "Алтан- Мундаргу": {
+    "coordinates": {
+      "lat": 51.7993,
+      "lng": 101.426
+    },
+    "routes": [{
+      "complexity": "2Бз",
+      "id": 7746,
+      "name": "СЗ гребню",
+      "characteristic": "к",
+      "num": "174"
+    }]
+  },
+  "Ула-Гол": {
+    "coordinates": {
+      "lat": 51.7929,
+      "lng": 101.4418
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 7739,
+      "name": "З склону Ю гребня",
+      "characteristic": "ск",
+      "num": "176"
+    }, {
+      "complexity": "2Бз",
+      "id": 7746,
+      "name": "СЗ гребню",
+      "characteristic": "к",
+      "num": "174"
+    }, {
+      "complexity": "4А",
+      "id": 7741,
+      "name": "2-му кф. В стены",
+      "characteristic": "ск",
+      "num": "177"
+    }]
+  },
+  "Генеральский погон": {
+    "coordinates": {
+      "lat": 51.8172,
+      "lng": 101.4454
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 7738,
+      "name": "центр. З кф.",
+      "characteristic": "ск",
+      "num": "175"
+    }]
+  },
+  "Басмач": {
+    "coordinates": {
+      "lat": 51.9351,
+      "lng": 102.6226
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 7873,
+      "name": "Ю гр",
+      "characteristic": "к",
+      "num": "181"
+    }]
+  },
+  "Гайдук": {
+    "coordinates": {
+      "lat": 51.93301,
+      "lng": 102.62425
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 7873,
+      "name": "Ю гр",
+      "characteristic": "к",
+      "num": "181"
+    }]
+  },
+  "Радищева": {
+    "coordinates": {
+      "lat": 51.8054,
+      "lng": 101.4676
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 7744,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "190"
+    }, {
+      "complexity": "2А",
+      "id": 7745,
+      "name": "2-му З кф. южного гребня",
+      "characteristic": "ск",
+      "num": "184"
+    }]
+  },
+  "Дозорная": {
+    "coordinates": {
+      "lat": 51.9315,
+      "lng": 102.2584
+    },
+    "routes": [{
+      "complexity": "3Аз",
+      "id": 8007,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "188"
+    }]
+  },
+  "Страж": {
+    "coordinates": {
+      "lat": 51.9394,
+      "lng": 102.5745
+    },
+    "routes": [{
+      "complexity": "2Аз",
+      "id": 8182,
+      "name": "З гр",
+      "characteristic": "ск",
+      "num": "189"
+    }]
+  },
+  "Гусар": {
+    "coordinates": {
+      "lat": 51.9533,
+      "lng": 102.5692
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 8220,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "191"
+    }]
+  },
+  "Янычар": {
+    "coordinates": {
+      "lat": 51.9533,
+      "lng": 102.5693
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 8220,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "191"
+    }, {
+      "complexity": "3А",
+      "id": 8222,
+      "name": "ЮЗ гребню",
+      "characteristic": "ск",
+      "num": "193"
+    }, {
+      "complexity": "3Б",
+      "id": 8223,
+      "name": "ЮВ гребню",
+      "characteristic": "ск",
+      "num": "194"
+    }, {
+      "complexity": "3Б",
+      "id": 8224,
+      "name": "Ю стена ЮЗ гребня",
+      "characteristic": "ск",
+      "num": "195"
+    }]
+  },
+  "Тортуга": {
+    "coordinates": {
+      "lat": 51.8993,
+      "lng": 102.092
+    },
+    "routes": [{
+      "complexity": "3А",
+      "id": 8221,
+      "name": "В  гребню",
+      "characteristic": "ск",
+      "num": "192"
+    }]
+  },
+  "Геоморфологов": {
+    "coordinates": {
+      "lat": 51.82793,
+      "lng": 101.94421
+    },
+    "routes": [{
+      "complexity": "3Бз",
+      "id": 8270,
+      "name": "кулуару Ю стены (по большому замерзшему водопаду)",
+      "characteristic": "лс",
+      "num": "196"
+    }]
+  },
+  "Динамо": {
+    "coordinates": {
+      "lat": 51.7346,
+      "lng": 100.59212
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 3460,
+      "name": "Ю гребню",
+      "characteristic": "ск",
+      "num": "3"
+    }, {
+      "complexity": "5Б",
+      "id": 6368,
+      "name": "В стене, траверс",
+      "characteristic": "к",
+      "num": "4"
+    }]
+  },
+  "Тыхен-Ардын": {
+    "coordinates": {
+      "lat": 51.74902,
+      "lng": 100.59491
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 3476,
+      "name": "СВ гребню",
+      "characteristic": "ск",
+      "num": "28"
+    }, {
+      "complexity": "4А",
+      "id": 3477,
+      "name": "ЮВ кф.",
+      "characteristic": "ск",
+      "num": "29"
+    }, {
+      "complexity": "4Аз",
+      "id": 7946,
+      "name": "желоб ЮВ стены",
+      "characteristic": "к",
+      "num": "40"
+    }, {
+      "complexity": "5Б",
+      "id": 6368,
+      "name": "В стене, траверс",
+      "characteristic": "к",
+      "num": "4"
+    }]
+  },
+  "Крылья Советов": {
+    "coordinates": {
+      "lat": 51.72503,
+      "lng": 100.62379
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 3461,
+      "name": "С гребню",
+      "characteristic": "ск",
+      "num": "5"
+    }, {
+      "complexity": "2А",
+      "id": 7255,
+      "name": "С кф. З гребня",
+      "characteristic": "ск",
+      "num": "6"
+    }, {
+      "complexity": "2Б",
+      "id": 6729,
+      "name": "В гребню",
+      "characteristic": "ск",
+      "num": "7"
+    }, {
+      "complexity": "2Б",
+      "id": 6370,
+      "name": "С гребню,траверс",
+      "characteristic": "к",
+      "num": "20"
+    }, {
+      "complexity": "3А",
+      "id": 6369,
+      "name": "С гребню,траверс",
+      "characteristic": "к",
+      "num": "9"
+    }, {
+      "complexity": "3Аз",
+      "id": 6804,
+      "name": "С кф. через в.Холодная",
+      "characteristic": "ск",
+      "num": "8"
+    }]
+  },
+  "Мунку-Сардык": {
+    "coordinates": {
+      "lat": 51.71884,
+      "lng": 100.59709
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 3465,
+      "name": "с юга",
+      "characteristic": "к",
+      "num": "14"
+    }, {
+      "complexity": "1Б",
+      "id": 3464,
+      "name": "С гребню",
+      "characteristic": "к",
+      "num": "15"
+    }, {
+      "complexity": "1Б",
+      "id": 4728,
+      "name": "С склону В гребня",
+      "characteristic": "лс",
+      "num": "16"
+    }, {
+      "complexity": "1Б",
+      "id": 4729,
+      "name": "с ЮВ",
+      "characteristic": "к",
+      "num": "17"
+    }, {
+      "complexity": "2А",
+      "id": 3466,
+      "name": "центру С склона",
+      "characteristic": "лс",
+      "num": "18"
+    }, {
+      "complexity": "2А",
+      "id": 6220,
+      "name": "ледовому склону В гребня",
+      "characteristic": "лс",
+      "num": "19"
+    }, {
+      "complexity": "2Б",
+      "id": 6370,
+      "name": "С гребню,траверс",
+      "characteristic": "к",
+      "num": "20"
+    }, {
+      "complexity": "3А",
+      "id": 6369,
+      "name": "С гребню,траверс",
+      "characteristic": "к",
+      "num": "9"
+    }]
+  },
+  "(Кузьмина)": {
+    "coordinates": {
+      "lat": 51.736,
+      "lng": 100.6271
+    },
+    "routes": [{
+      "complexity": "3Бз",
+      "id": 7675,
+      "name": "центр. кф. Ю стены",
+      "characteristic": "ск",
+      "num": "10"
+    }]
+  },
+  "Ласточка": {
+    "coordinates": {
+      "lat": 51.742,
+      "lng": 100.5878
+    },
+    "routes": [{
+      "complexity": "3Б",
+      "id": 3462,
+      "name": "Ю кф",
+      "characteristic": "ск",
+      "num": "11"
+    }]
+  },
+  "Лейтенанты": {
+    "coordinates": {
+      "lat": 51.7272,
+      "lng": 100.6543
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 6558,
+      "name": "С кулуару",
+      "characteristic": "ск",
+      "num": "12"
+    }]
+  },
+  "Леонова": {
+    "coordinates": {
+      "lat": 51.72488,
+      "lng": 100.60953
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 3463,
+      "name": "С кулуару",
+      "characteristic": "к",
+      "num": "13"
+    }]
+  },
+  "Недотрога": {
+    "coordinates": {
+      "lat": 51.743,
+      "lng": 100.5895
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 3467,
+      "name": "В гребню",
+      "characteristic": "к",
+      "num": "21"
+    }]
+  },
+  "Опасная": {
+    "coordinates": {
+      "lat": 51.7455,
+      "lng": 100.5937
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 3468,
+      "name": "Ю кулуару З гребня",
+      "characteristic": "к",
+      "num": "22"
+    }, {
+      "complexity": "3А",
+      "id": 3469,
+      "name": "Ю ребру",
+      "characteristic": "к",
+      "num": "23"
+    }, {
+      "complexity": "5А",
+      "id": 3470,
+      "name": "Ю стене ЮВ кф",
+      "characteristic": "ск",
+      "num": "24"
+    }]
+  },
+  "Пасмурная": {
+    "coordinates": {
+      "lat": 51.72043,
+      "lng": 100.60522
+    },
+    "routes": [{
+      "complexity": "2Б",
+      "id": 3471,
+      "name": "СЗ кф",
+      "characteristic": "к",
+      "num": "25"
+    }, {
+      "complexity": "3А",
+      "id": 6221,
+      "name": "центру СЗ склона",
+      "characteristic": "лс",
+      "num": "26"
+    }]
+  },
+  "Трудная": {
+    "coordinates": {
+      "lat": 51.747,
+      "lng": 100.5943
+    },
+    "routes": [{
+      "complexity": "4Б",
+      "id": 5099,
+      "name": "ЮВ кф.",
+      "characteristic": "ск",
+      "num": "27"
+    }]
+  },
+  "Эскадрилья, 1-я": {
+    "coordinates": {
+      "lat": 51.7404,
+      "lng": 100.587
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 3478,
+      "name": "С склону",
+      "characteristic": "лс",
+      "num": "30"
+    }, {
+      "complexity": "2А",
+      "id": 6371,
+      "name": "С склону, траверс",
+      "characteristic": "лс",
+      "num": "33"
+    }, {
+      "complexity": "3А",
+      "id": 6730,
+      "name": "В гребню",
+      "characteristic": "ск",
+      "num": "31"
+    }]
+  },
+  "Эскадрилья, 3-я": {
+    "coordinates": {
+      "lat": 51.7409,
+      "lng": 100.587
+    },
+    "routes": [{
+      "complexity": "2А",
+      "id": 6371,
+      "name": "С склону, траверс",
+      "characteristic": "лс",
+      "num": "33"
+    }, {
+      "complexity": "4А",
+      "id": 3479,
+      "name": "ЮВ ребру",
+      "characteristic": "ск",
+      "num": "32"
+    }]
+  },
+  "3065 (Катька)": {
+    "coordinates": {
+      "lat": 51.7518,
+      "lng": 100.6055
+    },
+    "routes": [{
+      "complexity": "1Б",
+      "id": 3472,
+      "name": "В.гребню",
+      "characteristic": "ск",
+      "num": "34"
+    }, {
+      "complexity": "1Б",
+      "id": 3473,
+      "name": "З гребню",
+      "characteristic": "ск",
+      "num": "35"
+    }, {
+      "complexity": "1Б",
+      "id": 3474,
+      "name": "ЮЗ кулуару",
+      "characteristic": "ск",
+      "num": "36"
+    }, {
+      "complexity": "2А",
+      "id": 3475,
+      "name": "ЮВ кф.",
+      "characteristic": "ск",
+      "num": "37"
+    }, {
+      "complexity": "2А",
+      "id": 6176,
+      "name": "Ю ребру",
+      "characteristic": "ск",
+      "num": "38"
+    }, {
+      "complexity": "2Б",
+      "id": 6865,
+      "name": "Ю ребру",
+      "characteristic": "ск",
+      "num": "39"
+    }]
+  }
+}

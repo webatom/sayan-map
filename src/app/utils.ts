@@ -2,7 +2,7 @@ import { LatLngExpression } from 'leaflet';
 
 function isLatLngTuple(
   position: LatLngExpression
-): position is [number, number] {
+): position is [number, number, number?] {
   return Array.isArray(position);
 }
 

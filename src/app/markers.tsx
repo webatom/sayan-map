@@ -1,20 +1,56 @@
-import { useStore } from 'effector-react';
-import { FC } from 'react';
+import { useUnit } from 'effector-react';
+import { FC, useEffect, useRef } from 'react';
 import { Marker, Popup } from 'react-leaflet';
-import { $mountainsWithRoutes } from './model';
+import { Marker as LeafletMarker } from 'leaflet';
+import {
+  $mountainsWithRoutes,
+  $selectedMountain,
+  selectMountain,
+} from './model';
+
+const onPopupClose = () => {
+  selectMountain(null);
+};
 
 export const Markers: FC = () => {
-  const mountainList = useStore($mountainsWithRoutes);
+  const mountainList = useUnit($mountainsWithRoutes);
+  const searchedMountain = useUnit($selectedMountain);
+  const searchedMountainRef = useRef<LeafletMarker | null>(null);
+
+  useEffect(() => {
+    setTimeout(() => {
+      if (searchedMountain && searchedMountainRef.current) {
+        searchedMountainRef.current.openPopup();
+
+        searchedMountainRef.current.addEventListener(
+          'popupclose',
+          onPopupClose
+        );
+      }
+    }, 150);
+    searchedMountainRef.current?.removeEventListener(
+      'popupclose',
+      onPopupClose
+    );
+  }, [searchedMountain]);
   return (
     <>
-      {Object.keys(mountainList).map((mountain) => {
-        const position = mountainList[mountain].coordinates;
+      {mountainList.map((mountain) => {
+        const position = mountain.coordinates;
+        const idSearched =
+          searchedMountain?.areaId === mountain.areaId &&
+          searchedMountain.name === mountain.name;
         return (
-          <Marker key={mountain} position={position}>
+          <Marker
+            key={`${mountain.name}_${mountain.areaId}`}
+            position={position}
+            alt={mountain.name}
+            ref={idSearched ? searchedMountainRef : null}
+          >
             <Popup>
               <div className="flex flex-col gap-2">
-                <span className="block text-lg font-bold">{mountain}</span>
-                {mountainList[mountain].routes.map((point) => (
+                <span className="block text-lg font-bold">{mountain.name}</span>
+                {mountain.routes.map((point) => (
                   <a
                     key={point.id}
                     target="_blank"

@@ -4,9 +4,10 @@ import { throttle } from 'patronum';
 import {
   $layer,
   $mountainsWithRoutes,
-  $position,
+  $initialPosition,
   initApplication,
   loadDataFx,
+  selectMountain,
   restoreSavedLayerFx,
   restoreSavedPositionFx,
   saveLayerFx,
@@ -14,6 +15,9 @@ import {
   updateLayer,
   updatePosition,
   updateSearchParamsFx,
+  flyToMountainFx,
+  $mapRef,
+  $selectedMountain,
 } from '.';
 
 sample({
@@ -24,7 +28,14 @@ sample({
 sample({
   clock: restoreSavedPositionFx.doneData,
   filter: Boolean,
-  target: $position,
+  target: $initialPosition,
+});
+
+sample({
+  clock: selectMountain,
+  source: $mapRef,
+  fn: (mapRef, mountain) => ({ mountain, mapRef }),
+  target: flyToMountainFx,
 });
 
 const updatePositionDelay = throttle({
@@ -51,4 +62,9 @@ sample({
 sample({
   clock: updateLayer,
   target: saveLayerFx,
+});
+
+sample({
+  clock: flyToMountainFx.doneData,
+  target: $selectedMountain,
 });

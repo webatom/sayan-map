@@ -1,13 +1,15 @@
-import { useStore } from 'effector-react';
+import { useUnit } from 'effector-react';
 import { FC } from 'react';
 import { LayersControl, MapContainer, TileLayer } from 'react-leaflet';
+import Control from 'react-leaflet-custom-control';
 import { MapHooks } from './hooks';
 import { Markers } from './markers';
-import { $layer, $position, LAYER } from './model';
+import { $layer, $initialPosition, LAYER } from './model';
+import { Search } from './search';
 
 export const Map: FC = () => {
-  const initialPosition = useStore($position);
-  const initialLayer = useStore($layer);
+  const initialPosition = useUnit($initialPosition);
+  const initialLayer = useUnit($layer);
 
   return (
     <MapContainer
@@ -44,6 +46,9 @@ export const Map: FC = () => {
           />
         </LayersControl.BaseLayer>
       </LayersControl>
+      <Control position="topleft">
+        <Search />
+      </Control>
       <MapHooks />
       <Markers />
     </MapContainer>
