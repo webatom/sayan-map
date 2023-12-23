@@ -49,9 +49,9 @@ export const Map: FC = () => {
       <Control position="topleft">
         <Search />
       </Control>
-      <Control position="topright">
-        <Search />
-      </Control>
+      {/* <Control position="topright">
+        <FilterComplexity />
+      </Control> */}
       <MapHooks />
       <Markers />
     </MapContainer>

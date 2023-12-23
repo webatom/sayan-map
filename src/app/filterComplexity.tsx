@@ -8,7 +8,7 @@ import {
   selectMountain,
 } from './model';
 
-export const Search: FC = () => {
+export const FilterComplexity: FC = () => {
   const mountains = useUnit($mountainsWithRoutes);
   const selectedMountain = useUnit($selectedMountain);
 
