@@ -12,7 +12,7 @@
     "parse": "npm run parse-coordinates && npm run parse-routes",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "cache-buster": "grep -rl __CACHE_BUSTER__ ./dist | xargs sed -i '' -e \"s/__CACHE_BUSTER__/$(git rev-parse --short HEAD)/g\""
+    "cache-buster": "grep -rl __CACHE_BUSTER__ ./dist | xargs sed -i -e \"s/__CACHE_BUSTER__/$(git rev-parse --short HEAD)/g\""
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",
