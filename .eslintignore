@@ -4,3 +4,4 @@ scripts
 
 *.html
 *.css
+tailwind.config.cjs
